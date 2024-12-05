@@ -11,7 +11,7 @@ API dedicada a la administración de citas y usuarios
 - [x] Obtener citas pendientes del agente
 - [x] Obtener cita completada por id
 
-### Documentación de la API
+## Documentación de la API
 [API](https://documenter.getpostman.com/view/13576757/2sAYBbcoRt)
 
 ## Capturas
